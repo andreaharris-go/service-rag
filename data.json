@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to NestJS",
+    "content": "NestJS is a progressive Node.js framework for building efficient, reliable and scalable server-side applications. It uses TypeScript by default and combines elements of OOP, FP, and FRP."
+  },
+  {
+    "id": 2,
+    "title": "Vector Databases Overview",
+    "content": "Vector databases store data as high-dimensional vectors and enable similarity search. They are essential for AI applications like semantic search, recommendation systems, and retrieval-augmented generation."
+  },
+  {
+    "id": 3,
+    "title": "Qdrant Introduction",
+    "content": "Qdrant is a vector similarity search engine and database. It provides a production-ready service with a convenient API to store, search, and manage vectors with an additional payload."
+  },
+  {
+    "id": 4,
+    "title": "Google Gemini API",
+    "content": "Google Gemini is a family of multimodal AI models developed by Google DeepMind. The Gemini API provides access to these models for tasks like text generation, embedding creation, and multimodal understanding."
+  },
+  {
+    "id": 5,
+    "title": "Retrieval-Augmented Generation (RAG)",
+    "content": "RAG is an AI framework that retrieves relevant documents from a knowledge base to augment prompts sent to a language model. It improves accuracy and grounds responses in factual data."
+  },
+  {
+    "id": 6,
+    "title": "Embeddings Explained",
+    "content": "Embeddings are numerical representations of data (text, images, etc.) as dense vectors in a high-dimensional space. Similar items have embeddings that are close together, enabling semantic similarity search."
+  },
+  {
+    "id": 7,
+    "title": "NestJS Dependency Injection",
+    "content": "NestJS uses a powerful Dependency Injection (DI) system based on decorators. Services are injectable providers that can be shared across modules, promoting reusability and testability."
+  },
+  {
+    "id": 8,
+    "title": "TypeScript Best Practices",
+    "content": "TypeScript adds static typing to JavaScript, catching errors at compile time. Best practices include using strict mode, defining interfaces for data shapes, and leveraging generics for reusable code."
+  },
+  {
+    "id": 9,
+    "title": "REST API Design",
+    "content": "RESTful APIs use HTTP methods (GET, POST, PUT, DELETE) to perform CRUD operations on resources. Good REST design includes meaningful endpoints, proper status codes, and consistent response formats."
+  },
+  {
+    "id": 10,
+    "title": "Cosine Similarity",
+    "content": "Cosine similarity measures the cosine of the angle between two vectors, indicating their directional similarity. It is widely used in vector search to rank documents by semantic relevance to a query."
+  }
+]
